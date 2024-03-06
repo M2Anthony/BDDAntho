@@ -1,0 +1,21 @@
+﻿@model Dragon
+
+<div class="text-center">
+    <h1>Modifier votre dragon</h1>
+</div>
+
+<form asp-action="ModifierDragon" asp-route-id="@Model.Id">
+    <div class="mb-3">
+        <label asp-for="Nom" class="form-label">Nom</label>
+        <input asp-for="Nom" type="text" class="form-control" id="Nom" aria-describedby="emailHelp" placeholder="@Model.Nom">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Age" class="form-label">Age</label>
+        <input asp-for="Age" type="number" class="form-control" id="Age" placeholder="@Model.Age">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label">Description</label>
+        <input asp-for="Description" type="text" class="form-control" id="Description" placeholder="@Model.Description">
+    </div>    
+    <button type="submit" class="btn btn-success">Valider</button>
+</form>

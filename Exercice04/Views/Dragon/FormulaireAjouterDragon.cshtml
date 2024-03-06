@@ -1,0 +1,22 @@
+﻿@model Dragon
+
+<div class="text-center">
+    <h1>Ajouter dragon</h1>
+</div>
+
+<form asp-action="AjouterDragon">
+    <div class="mb-3">
+        <label asp-for="Nom" class="form-label">Nom</label>
+        <input asp-for="Nom" type="text" class="form-control" id="Nom" aria-describedby="emailHelp" placeholder="Ex : Norbert">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Age" class="form-label">Age</label>
+        <input asp-for="Age" type="number" class="form-control" id="Age" placeholder="Ex : 6">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label">Description</label>
+        <input asp-for="Description" type="text" class="form-control" id="Description" placeholder="Veuillez tapez ici la description du dragon">
+    </div>
+    <br />
+    <button type="submit" class="btn btn-success">Valider</button>
+</form>

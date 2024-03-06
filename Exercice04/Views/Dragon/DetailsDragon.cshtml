@@ -1,0 +1,42 @@
+﻿@model Dragon
+
+@{
+    Dragon dragon = Model;
+}
+
+<div class="text-center">
+    <h1>Détails dragon</h1>
+</div>
+
+@{
+    if (dragon != null)
+    {
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">@dragon.Nom</h5>
+                <p class="card-text">@dragon.Description</p>
+            </div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">Age = @dragon.Age</li>
+            </ul>
+            <div class="card-body">
+                <a asp-action="FormulaireModifierDragon" asp-route-id="@dragon.Id" type="button" class="btn btn-warning">Modifier</a>
+                <a asp-action="SupprimerDragon" asp-route-id="@dragon.Id" type="button" class="btn btn-danger">Supprimer</a>
+
+            </div>
+        </div>
+    }
+    else
+    {
+        <p class="text-danger">
+        Contact non trouvé !
+        </p>
+    }
+
+}
+
+<br />
+
+<div class="text-end">
+    <a asp-action="AccueilDragon" type="button" class="btn btn-primary">Retour au menu</a>
+</div>

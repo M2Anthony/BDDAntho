@@ -1,0 +1,137 @@
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Exercice04-05.staticwebassets.runtime.json
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Exercice04-05.exe
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Exercice04-05.deps.json
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Exercice04-05.runtimeconfig.json
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Exercice04-05.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Exercice04-05.pdb
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\Exercice04-05.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\Exercice04-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\Exercice04-05.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\Exercice04-05.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\Exercice04-05.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\Exercice04-05.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\Exercice04-05.RazorAssemblyInfo.cache
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\Exercice04-05.RazorAssemblyInfo.cs
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\Exercice04-05.sourcelink.json
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\staticwebassets\msbuild.Exercice04-05.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\staticwebassets\msbuild.build.Exercice04-05.props
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Exercice04-05.props
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Exercice04-05.props
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\scopedcss\bundle\Exercice04-05.styles.css
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\scopedcss\projectbundle\Exercice04-05.bundle.scp.css
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\Exercice.2DF97651.Up2Date
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\Exercice04-05.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\refint\Exercice04-05.dll
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\Exercice04-05.pdb
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\Exercice04-05.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\Formation-M2i---19-12-23\07 - ASP.NET Core MVC\ExercicesMVC\Exercice04\obj\Debug\net6.0\ref\Exercice04-05.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Exercice04-05.staticwebassets.runtime.json
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Exercice04-05.exe
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Exercice04-05.deps.json
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Exercice04-05.runtimeconfig.json
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Exercice04-05.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Exercice04-05.pdb
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\Exercice04-05.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\Exercice04-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\Exercice04-05.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\Exercice04-05.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\Exercice04-05.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\Exercice04-05.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\Exercice04-05.RazorAssemblyInfo.cache
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\Exercice04-05.RazorAssemblyInfo.cs
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\staticwebassets\msbuild.Exercice04-05.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\staticwebassets\msbuild.build.Exercice04-05.props
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Exercice04-05.props
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Exercice04-05.props
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\scopedcss\bundle\Exercice04-05.styles.css
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\scopedcss\projectbundle\Exercice04-05.bundle.scp.css
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\Exercice.2DF97651.Up2Date
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\Exercice04-05.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\refint\Exercice04-05.dll
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\Exercice04-05.pdb
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\Exercice04-05.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\BDDAzure\Exercice04\obj\Debug\net6.0\ref\Exercice04-05.dll
